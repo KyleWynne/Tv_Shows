@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "One Piece",
+        "description": "Monkey D. Luffy will stop at nothing to become king of the pirates",
+        "rating": "9.25",
+        "imageName": "OnePiece"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Breaking Bad",
+        "description": "Worst midlife crisis ever",
+        "rating": "9.5",
+        "imageName": "BreakingBad"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Planet Earth ii",
+        "description": "Take an in depth look at the earths ecosystems and the animals that inhabit them",
+        "rating": "9.5",
+        "imageName": "PlanetEarth2"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Adventure Time",
+        "description": "Finn the human and Jake the dog go on mystical adventures through the land of Ooo",
+        "rating": "8.3",
+        "imageName": "AdventureTime"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Chernobyl",
+        "description": "A dramatic take on the imfamous Chernobyl meltdown",
+        "rating": "9.1",
+        "imageName": "Chernobyl"
+    }
+    
+]
